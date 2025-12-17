@@ -72,6 +72,8 @@ weather-bot/
 ├── .env                    # Секреты (НЕ в Git!)
 ├── requirements.txt        # Зависимости
 ├── .gitignore              # Игнор секретов
+├── .dockerignore           # Игнор для докера
+├── Dockerfile              # Инструкции для докера
 ├── README.md               # Эта документация
 └── weather_cache.sqlite    # Кэш (создается при первом запуске бота)
 ```
