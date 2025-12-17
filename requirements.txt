@@ -1,0 +1,4 @@
+requests>=2.31.0
+requests-cache>=1.2.0
+python-dotenv>=1.0.0
+aiogram>=3.13.1
